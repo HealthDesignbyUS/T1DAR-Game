@@ -1,0 +1,144 @@
+fileFormatVersion: 2
+guid: 6863cfac4ebfc9f468e91b3478c1092d
+timeCreated: 1491660746
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: objects__Blood_Glucose_Pen
+    100004: objects_bag_part
+    100006: objects_bag_part1
+    100008: objects_bag_part2
+    100010: objects_bag_wraps
+    100012: objects_blood_glucose_check_meter_off
+    100014: objects_blood_glucose_check_meter_off_buton
+    100016: objects_blood_glucose_check_meter_on
+    100018: objects_blood_glucose_check_meter_on_buton_2
+    100020: objects_Box
+    100022: objects_pill_caps_open
+    100024: objects_pill_caps_sticker
+    100026: objects_Test_strips_
+    400000: //RootNode
+    400002: objects__Blood_Glucose_Pen
+    400004: objects_bag_part
+    400006: objects_bag_part1
+    400008: objects_bag_part2
+    400010: objects_bag_wraps
+    400012: objects_blood_glucose_check_meter_off
+    400014: objects_blood_glucose_check_meter_off_buton
+    400016: objects_blood_glucose_check_meter_on
+    400018: objects_blood_glucose_check_meter_on_buton_2
+    400020: objects_Box
+    400022: objects_pill_caps_open
+    400024: objects_pill_caps_sticker
+    400026: objects_Test_strips_
+    2300000: objects__Blood_Glucose_Pen
+    2300002: objects_bag_part
+    2300004: objects_bag_part1
+    2300006: objects_bag_part2
+    2300008: objects_bag_wraps
+    2300010: objects_blood_glucose_check_meter_off
+    2300012: objects_blood_glucose_check_meter_off_buton
+    2300014: objects_blood_glucose_check_meter_on
+    2300016: objects_blood_glucose_check_meter_on_buton_2
+    2300018: objects_Box
+    2300020: objects_pill_caps_open
+    2300022: objects_pill_caps_sticker
+    2300024: objects_Test_strips_
+    3300000: objects__Blood_Glucose_Pen
+    3300002: objects_bag_part
+    3300004: objects_bag_part1
+    3300006: objects_bag_part2
+    3300008: objects_bag_wraps
+    3300010: objects_blood_glucose_check_meter_off
+    3300012: objects_blood_glucose_check_meter_off_buton
+    3300014: objects_blood_glucose_check_meter_on
+    3300016: objects_blood_glucose_check_meter_on_buton_2
+    3300018: objects_Box
+    3300020: objects_pill_caps_open
+    3300022: objects_pill_caps_sticker
+    3300024: objects_Test_strips_
+    4300000: objects__Blood_Glucose_Pen
+    4300002: objects_bag_part
+    4300004: objects_bag_part1
+    4300006: objects_bag_part2
+    4300008: objects_bag_wraps
+    4300010: objects_blood_glucose_check_meter_off
+    4300012: objects_blood_glucose_check_meter_off_buton
+    4300014: objects_blood_glucose_check_meter_on
+    4300016: objects_blood_glucose_check_meter_on_buton_2
+    4300018: objects_Box
+    4300020: objects_pill_caps_open
+    4300022: objects_pill_caps_sticker
+    4300024: objects_Test_strips_
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,17 @@
+syntax: glob
+.DS_Store
+*.sln
+*.userprefs
+*.csproj
+*.pidb
+*.unitypackage
+*.orig
+*.apk
+
+syntax: regexp
+^Build/.*
+^Library/.*
+^Temp/.*
+^obj/.*
+^.idea/.*
+^.vs/.*

@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: 332eda845a732c741b8e0634dd73599e
+timeCreated: 1483582099
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: Ruler Stencil
+  fontNames:
+  - Ruler Stencil
+  fallbackFontReferences: []
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

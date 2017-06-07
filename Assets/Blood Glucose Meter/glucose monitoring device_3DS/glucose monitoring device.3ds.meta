@@ -1,0 +1,170 @@
+fileFormatVersion: 2
+guid: 3c13dd9b3809d1a45863646c3ab9ec8b
+timeCreated: 1491660740
+licenseType: Free
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: _Blood_Glu
+    100002: bag
+    100004: blood
+    100006: blood_gluc
+    100008: Box
+    100010: buton
+    100012: buton_2
+    100014: Camera
+    100016: Camera.target
+    100018: //RootNode
+    100020: Light
+    100022: lights_cam
+    100024: objects
+    100026: open
+    100028: part
+    100030: part1
+    100032: part2
+    100034: pill_caps
+    100036: sticker
+    100038: Test_strip
+    100040: wraps
+    400000: _Blood_Glu
+    400002: bag
+    400004: blood
+    400006: blood_gluc
+    400008: Box
+    400010: buton
+    400012: buton_2
+    400014: Camera
+    400016: Camera.target
+    400018: //RootNode
+    400020: Light
+    400022: lights_cam
+    400024: objects
+    400026: open
+    400028: part
+    400030: part1
+    400032: part2
+    400034: pill_caps
+    400036: sticker
+    400038: Test_strip
+    400040: wraps
+    2300000: _Blood_Glu
+    2300002: bag
+    2300004: blood
+    2300006: blood_gluc
+    2300008: Box
+    2300010: buton
+    2300012: buton_2
+    2300014: lights_cam
+    2300016: objects
+    2300018: open
+    2300020: part
+    2300022: part1
+    2300024: part2
+    2300026: pill_caps
+    2300028: sticker
+    2300030: Test_strip
+    2300032: wraps
+    3300000: _Blood_Glu
+    3300002: bag
+    3300004: blood
+    3300006: blood_gluc
+    3300008: Box
+    3300010: buton
+    3300012: buton_2
+    3300014: lights_cam
+    3300016: objects
+    3300018: open
+    3300020: part
+    3300022: part1
+    3300024: part2
+    3300026: pill_caps
+    3300028: sticker
+    3300030: Test_strip
+    3300032: wraps
+    4300000: lights_cam
+    4300002: objects
+    4300004: blood_gluc
+    4300006: buton_2
+    4300008: blood
+    4300010: buton
+    4300012: pill_caps
+    4300014: sticker
+    4300016: open
+    4300018: Test_strip
+    4300020: _Blood_Glu
+    4300022: Box
+    4300024: bag
+    4300026: wraps
+    4300028: part
+    4300030: part1
+    4300032: part2
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
